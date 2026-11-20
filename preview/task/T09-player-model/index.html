@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Cinetor</title>
+<script>
+  (function () {
+    var q = location.search;
+    var mobile = /[?&]mobile\b/.test(q) ? true : /[?&]desktop\b/.test(q) ? false : window.innerWidth < 700;
+    location.replace((mobile ? './m/' : './d/') + location.hash);
+  })();
+</script>
+</head>
+<body style="background:#000"></body>
+</html>
