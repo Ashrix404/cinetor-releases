@@ -1,6 +1,6 @@
 // Cinetor service worker (docs/08 §Web side, T35): precache the shell, network-first for TMDB,
 // cache-first for images. The cache name carries the build version (replaced at build).
-const VERSION = '0.1.0';
+const VERSION = '0.1.1';
 const SHELL = 'cinetor-shell-' + VERSION;
 const IMAGES = 'cinetor-img-v1';
 const API = 'cinetor-api-v1';
