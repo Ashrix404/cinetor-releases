@@ -1,0 +1,148 @@
+{
+ "files": [
+  {
+   "name": "clip-1080p.mp4",
+   "path": "clip-1080p.mp4",
+   "bytes": 30763446,
+   "sha256": "9fbb0b04cda9159c450314fbc3c7c0b90c77e6143025a7b59df8c5a2053da92d"
+  },
+  {
+   "name": "clip-480p.mp4",
+   "path": "clip-480p.mp4",
+   "bytes": 7887002,
+   "sha256": "7eb736448dff346c5eca87d67f8b75e07f741180dc18b5abf12c12034c17b8bf"
+  },
+  {
+   "name": "clip-720p.mp4",
+   "path": "clip-720p.mp4",
+   "bytes": 16997210,
+   "sha256": "d2cf8a6f682297d80950a19fcda0bc0bc84568e5d9545ff9b106ad6a72b4e79e"
+  },
+  {
+   "name": "track-1.mp3",
+   "path": "music/track-1.mp3",
+   "bytes": 960931,
+   "sha256": "5ef599effed4c88681683c20748778aa3aea6fca66cb4bf5abba180177c273d6"
+  },
+  {
+   "name": "track-2.mp3",
+   "path": "music/track-2.mp3",
+   "bytes": 960931,
+   "sha256": "90a0131321b0113514912d90e3635b87c92977b9f27ee226109fb6ccfa3c533f"
+  },
+  {
+   "name": "track-3.mp3",
+   "path": "music/track-3.mp3",
+   "bytes": 960931,
+   "sha256": "a3bd87a965c0c22e0a5a18443442acba92e91c2623b12ee0057fa280d8701e6a"
+  },
+  {
+   "name": "track-4.mp3",
+   "path": "music/track-4.mp3",
+   "bytes": 960931,
+   "sha256": "3c0c88c307afcc05ccf4fce3c7fe7a5f1c5918d9fb276d85a071c5dfce1ccdde"
+  },
+  {
+   "name": "track-5.mp3",
+   "path": "music/track-5.mp3",
+   "bytes": 960931,
+   "sha256": "d2bd707605b42258923b49941f8cd77bab8b62343fc10bc436292a12a5cda194"
+  },
+  {
+   "name": "ar.vtt",
+   "path": "subtitles/ar.vtt",
+   "bytes": 1196,
+   "sha256": "8b652e2368e45af6dd908e0152459ebc3568a005bc7ab11ebc44a3affa74f7e9"
+  },
+  {
+   "name": "bn.vtt",
+   "path": "subtitles/bn.vtt",
+   "bytes": 1691,
+   "sha256": "21177472966c2460607d40589a426dfca5da229228ca360e671a944b7ae3a336"
+  },
+  {
+   "name": "de.vtt",
+   "path": "subtitles/de.vtt",
+   "bytes": 1061,
+   "sha256": "35281c802d9af381df9944c301150a77f314f7e4d0b280e049e6f6b1e39fc5a5"
+  },
+  {
+   "name": "en.vtt",
+   "path": "subtitles/en.vtt",
+   "bytes": 1001,
+   "sha256": "fe82d7e06d504d386f0638f2fe99514b37cab66304cf56254f0a03464d2231d3"
+  },
+  {
+   "name": "es.vtt",
+   "path": "subtitles/es.vtt",
+   "bytes": 956,
+   "sha256": "161de1964bc2190a69ecf0bbc81502b2626b7b47d8eff55119dfc57a1fffd620"
+  },
+  {
+   "name": "fr.vtt",
+   "path": "subtitles/fr.vtt",
+   "bytes": 1046,
+   "sha256": "c788c1d9a1778fef1f2fbf893efc0e884dc5efae3a3a7f6c530d8e774dd8149d"
+  },
+  {
+   "name": "hi.vtt",
+   "path": "subtitles/hi.vtt",
+   "bytes": 1541,
+   "sha256": "919575760c04f1173950897320c1d751ec6d64c751dce49c370e84d9055bcb24"
+  },
+  {
+   "name": "id.vtt",
+   "path": "subtitles/id.vtt",
+   "bytes": 1091,
+   "sha256": "bffb57e077fcf4afa5e71c6b4d7b6d4ab761b274ab3fc914c088ecfa41120e5c"
+  },
+  {
+   "name": "it.vtt",
+   "path": "subtitles/it.vtt",
+   "bytes": 1016,
+   "sha256": "073d49fe1a98f209fb7c45e627c0101208f8726ff4bad0f5d0ff114b87cc73f7"
+  },
+  {
+   "name": "ja.vtt",
+   "path": "subtitles/ja.vtt",
+   "bytes": 986,
+   "sha256": "b5eeb25262b3679e7757917920cbddcd7c64aade00f300bb51d3b714d114bcc9"
+  },
+  {
+   "name": "ko.vtt",
+   "path": "subtitles/ko.vtt",
+   "bytes": 1136,
+   "sha256": "abb162f439ed6aca9eccf5784b0c1cc14495a95c705b3d73f2810a7bafc16ad5"
+  },
+  {
+   "name": "pt.vtt",
+   "path": "subtitles/pt.vtt",
+   "bytes": 971,
+   "sha256": "20f1c5d537bc8f6744eac8bd5be1e91316ac9be50b3b00392ae8989f5ba9e4d6"
+  },
+  {
+   "name": "ru.vtt",
+   "path": "subtitles/ru.vtt",
+   "bytes": 1256,
+   "sha256": "c4b1d70659f52002e79155da1753886cefba90dde6dfbf06b3e37445d7274235"
+  },
+  {
+   "name": "tr.vtt",
+   "path": "subtitles/tr.vtt",
+   "bytes": 821,
+   "sha256": "09dd39530a5a37ec02b8aafca30ee6c9ee7355e990d305b4a8815b4fc2541d4b"
+  },
+  {
+   "name": "ur.vtt",
+   "path": "subtitles/ur.vtt",
+   "bytes": 1226,
+   "sha256": "9c2e383ac6b8cb4fb3c3f54f82a2b33d3c6ab34cd2fc6ebdca1eda683c8d04b5"
+  },
+  {
+   "name": "zh.vtt",
+   "path": "subtitles/zh.vtt",
+   "bytes": 941,
+   "sha256": "b005f9bd321aa42015096a3a403c58d2a003f5958fc4da8ea65fc3cfc56d4bd2"
+  }
+ ]
+}
