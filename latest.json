@@ -1,66 +1,66 @@
 {
- "version": "0.1.11",
- "versionCode": 111,
+ "version": "0.1.12",
+ "versionCode": 112,
  "minVersionCode": 0,
- "notes": "- fix(tests): update adult sources and music trackUrl assertions\n- fix(typecheck): fix isAdultTitle desktop import and test title mock\n- feat(music): YouTube Music direct playback, InnerTube gateway integration, docs update\n- feat(adult): merge adult section isolation and real catalog\n- feat(player): merge v2 player architecture and downloads\n- feat(adult): adult section content feed, PIN gate isolation, sanitize and relock\n- feat(downloads): real qualities, audio languages and sizes from the resolved files, automatic file fallback\n- fix(embeds): keep every embed player, hosts that were dead go last instead of being dropped\n- fix(android): hide the WebView from embed players (UA, client hints, document-start guard), media header rules per CDN host\n- feat(player): v2 source layer (ranked direct files, LinkHealth, proxy/headers), shared embed session, no player-switch UI",
- "publishedAt": "2026-11-20T18:35:28.864Z",
+ "notes": "- feat(player): native-first player architecture with seamless multi-server fallback and zero third-party chrome",
+ "publishedAt": "2026-11-20T19:06:20.712Z",
  "apk": {
   "phone": {
    "arm64-v8a": {
-    "url": "https://github.com/Ashrix404/cinetor-releases/releases/download/v0.1.11/cinetor-phone-arm64-v8a-v0.1.11.apk",
-    "sha256": "08dd904055a5384cbabd4f937b77b2544506f63baa1d8dabab9181fd2aa6bec7",
-    "size": 8104768
+    "url": "https://github.com/Ashrix404/cinetor-releases/releases/download/v0.1.12/cinetor-phone-arm64-v8a-v0.1.12.apk",
+    "sha256": "7aa3c180faa1209e3ce849aa5a59c949b46abb627149509ccd85152fd1d44517",
+    "size": 8107980
    },
    "armeabi-v7a": {
-    "url": "https://github.com/Ashrix404/cinetor-releases/releases/download/v0.1.11/cinetor-phone-armeabi-v7a-v0.1.11.apk",
-    "sha256": "327737156b25a544b91437d07735bb885d57164280d3e65eb142a6cf73d620fa",
-    "size": 8310332
+    "url": "https://github.com/Ashrix404/cinetor-releases/releases/download/v0.1.12/cinetor-phone-armeabi-v7a-v0.1.12.apk",
+    "sha256": "adb94ba446fc04f0c043e4c7db933716c59b096ef9fcf0c6c41a68a2f8943880",
+    "size": 8313548
    },
    "x86": {
-    "url": "https://github.com/Ashrix404/cinetor-releases/releases/download/v0.1.11/cinetor-phone-x86-v0.1.11.apk",
-    "sha256": "e31fa22d77defb0581c46b365ad793cabc42f6f8fcc011132281e476837f9435",
-    "size": 8664064
+    "url": "https://github.com/Ashrix404/cinetor-releases/releases/download/v0.1.12/cinetor-phone-x86-v0.1.12.apk",
+    "sha256": "7d9aaf19ac138d00096d225cc83a388b14e78ecda7a0332572bf04e324de192d",
+    "size": 8667276
    },
    "x86_64": {
-    "url": "https://github.com/Ashrix404/cinetor-releases/releases/download/v0.1.11/cinetor-phone-x86_64-v0.1.11.apk",
-    "sha256": "75bea5cd52e5ee66217e7d88a2e546004f25b99fffd1dd67e03dbc4153541f7c",
-    "size": 8463690
+    "url": "https://github.com/Ashrix404/cinetor-releases/releases/download/v0.1.12/cinetor-phone-x86_64-v0.1.12.apk",
+    "sha256": "3ee6265bc0024aeaee52e9145b9e906073e89e3380f6929190cab4e6fb1b0fc7",
+    "size": 8466906
    },
    "universal": {
-    "url": "https://github.com/Ashrix404/cinetor-releases/releases/download/v0.1.11/cinetor-phone-universal-v0.1.11.apk",
-    "sha256": "3466905dadafc305e005eccd54ae4b1abf1a53d34406ee915809df12ddf81f2b",
-    "size": 23905379
+    "url": "https://github.com/Ashrix404/cinetor-releases/releases/download/v0.1.12/cinetor-phone-universal-v0.1.12.apk",
+    "sha256": "250342c7ca5d5496722a912111b958850895d9554bcbe17d0c2a35e4dfa31ff7",
+    "size": 23908595
    }
   },
   "tv": {
    "arm64-v8a": {
-    "url": "https://github.com/Ashrix404/cinetor-releases/releases/download/v0.1.11/cinetor-tv-arm64-v8a-v0.1.11.apk",
-    "sha256": "aeaa8c7131ef0790408925de93d8c6cecbf03a7929b6fffe00697ee5586bfc1e",
-    "size": 8049607
+    "url": "https://github.com/Ashrix404/cinetor-releases/releases/download/v0.1.12/cinetor-tv-arm64-v8a-v0.1.12.apk",
+    "sha256": "c2b1b368f05fa7f72497087008ee5b8e75a6242a47348d8ee6d595ffc7527311",
+    "size": 8050879
    },
    "armeabi-v7a": {
-    "url": "https://github.com/Ashrix404/cinetor-releases/releases/download/v0.1.11/cinetor-tv-armeabi-v7a-v0.1.11.apk",
-    "sha256": "e14001f86e554c0a823a47ec73af81abad9560ec4b4a93f51cee2ef92f04586e",
-    "size": 8255171
+    "url": "https://github.com/Ashrix404/cinetor-releases/releases/download/v0.1.12/cinetor-tv-armeabi-v7a-v0.1.12.apk",
+    "sha256": "8586923340c0b396dfd814e167cdca3beceeab949a15316233af38b9a04dd467",
+    "size": 8256443
    },
    "x86": {
-    "url": "https://github.com/Ashrix404/cinetor-releases/releases/download/v0.1.11/cinetor-tv-x86-v0.1.11.apk",
-    "sha256": "1bfa1751a6b9855771a9f66a8d4b8bc339369d89edc1e3b556141517d83915fc",
-    "size": 8608899
+    "url": "https://github.com/Ashrix404/cinetor-releases/releases/download/v0.1.12/cinetor-tv-x86-v0.1.12.apk",
+    "sha256": "4ad84ab36233087fef6b574f86b9cdabc8a1a813b4d5bd9db31b2dfd3d5bd3d6",
+    "size": 8610175
    },
    "x86_64": {
-    "url": "https://github.com/Ashrix404/cinetor-releases/releases/download/v0.1.11/cinetor-tv-x86_64-v0.1.11.apk",
-    "sha256": "4f32964c489dbfba4ae622595fc55f0dbd40fe242cf628be267bf11366d3be40",
-    "size": 8408529
+    "url": "https://github.com/Ashrix404/cinetor-releases/releases/download/v0.1.12/cinetor-tv-x86_64-v0.1.12.apk",
+    "sha256": "60bbfd2c716e59faf549bf35254c5f31756b9607325c8fcb1318a7fc9a7d6cfd",
+    "size": 8409805
    },
    "universal": {
-    "url": "https://github.com/Ashrix404/cinetor-releases/releases/download/v0.1.11/cinetor-tv-universal-v0.1.11.apk",
-    "sha256": "e28fed86391e88be88c6b5e3707c1e0250e91af773f7d6d38c45609ba1a85426",
-    "size": 23850218
+    "url": "https://github.com/Ashrix404/cinetor-releases/releases/download/v0.1.12/cinetor-tv-universal-v0.1.12.apk",
+    "sha256": "24aa2acf7f3a1b23dba4a693519bc71d227e246184882745b3b8fa609b22a65d",
+    "size": 23851494
    }
   }
  },
  "web": {
-  "version": "0.1.11"
+  "version": "0.1.12"
  }
 }
